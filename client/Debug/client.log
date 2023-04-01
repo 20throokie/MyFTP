@@ -1,0 +1,134 @@
+﻿生成启动时间为 2023/1/31 19:27:10。
+     1>项目“D:\MyFTP\client\client.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\client.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt clientDlg.cpp
+         clientDlg.cpp
+     1>d:\myftp\client\clientdlg.cpp(408): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(409): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(410): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(411): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(186) : 参见“strncat”的声明
+     1>d:\myftp\client\clientdlg.cpp(432): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(451): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(452): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(453): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(454): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(456): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\myftp\client\clientdlg.cpp(465): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(527): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(546): warning C4996: '_i64toa': This function or variable may be unsafe. Consider using _i64toa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\stdlib.h(483) : 参见“_i64toa”的声明
+     1>d:\myftp\client\clientdlg.cpp(574): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\vs\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>d:\myftp\client\clientdlg.cpp(585): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\myftp\client\clientdlg.cpp(605): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\myftp\client\clientdlg.cpp(607): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(608): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(609): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(610): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(614): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(658): warning C4101: “recvBuf”: 未引用的局部变量
+     1>d:\myftp\client\clientdlg.cpp(767): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(768): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(783): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(784): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(785): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(926): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(927): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(935): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(186) : 参见“strncat”的声明
+     1>d:\myftp\client\clientdlg.cpp(996): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(186) : 参见“strncat”的声明
+     1>d:\myftp\client\clientdlg.cpp(997): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\myftp\client\clientdlg.cpp(1037): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\stdlib.h(854) : 参见“_splitpath”的声明
+     1>d:\myftp\client\clientdlg.cpp(1048): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\myftp\client\clientdlg.cpp(1050): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1051): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1052): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1053): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1054): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1058): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(1180): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(1182): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(1183): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(186) : 参见“strncat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1339): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(1375): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1376): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1385): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(1387): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(1395): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1396): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1403): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1404): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1421): warning C4101: “sendBuf”: 未引用的局部变量
+     1>d:\myftp\client\clientdlg.cpp(1465): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1466): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1477): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\myftp\client\clientdlg.cpp(1489): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1490): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1497): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+     1>d:\myftp\client\clientdlg.cpp(1498): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs\vc\include\string.h(118) : 参见“strcat”的声明
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MyFTP\Debug\client.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VS\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"D:\MyFTP\Debug\client.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MyFTP\Debug\client.lib" /MACHINE:X86 Debug\client.res
+         Debug\client.obj
+         Debug\clientDlg.obj
+         Debug\stdafx.obj
+         client.vcxproj -> D:\MyFTP\Debug\client.exe
+     1>已完成生成项目“D:\MyFTP\client\client.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.58
